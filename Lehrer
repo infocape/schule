@@ -1,0 +1,8 @@
+public class Lehrer
+{
+
+ public Lehrer()
+ {
+ }
+ 
+}
