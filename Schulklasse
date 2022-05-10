@@ -1,0 +1,8 @@
+public class Schulklasse
+{
+
+ public Schulklasse()
+ {
+ }
+ 
+}
